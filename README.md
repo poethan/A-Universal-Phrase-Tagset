@@ -24,3 +24,7 @@ Slides:
 Codes:
 
 https://github.com/aaronlifenghan/A-Universal-Phrase-Tagset
+
+Representative Works that utilises / based on / derived from / refers to Universal Phrase Tagset:
+===============
+LREC2020: Dependency Parsing for Urdu: Resources, Conversions and Learning. Toqeer Ehsan, Miriam Butt. https://www.aclweb.org/anthology/2020.lrec-1.640 
