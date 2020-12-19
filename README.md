@@ -31,4 +31,6 @@ LREC2020: Dependency Parsing for Urdu: Resources, Conversions and Learning. Toqe
 
 Ehsan, T., Hussain, S. Development and evaluation of an Urdu treebank (CLE-UTB) and a statistical parser. Lang Resources & Evaluation (2020). https://doi.org/10.1007/s10579-020-09492-7
 
+# news: using UniPhraseTag for Machine Translation - documentation uploaded
+https://www2.slideshare.net/AaronHanLiFeng/build-moses-on-ubuntu-64-bit-system-in-virtubox-recorded-by-aaron-v2longer 107 pages
 
